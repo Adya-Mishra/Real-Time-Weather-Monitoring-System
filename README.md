@@ -78,7 +78,6 @@ This will fetch the weather data immediately and continue to run every 5 minutes
 ## Testing
 To run unit tests, execute:
 
-    ```bash
     python -m unittest discover -s tests
   
 ## License
