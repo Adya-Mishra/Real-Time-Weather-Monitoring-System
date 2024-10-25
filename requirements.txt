@@ -1,0 +1,6 @@
+pandas
+pymysql
+requests
+schedule
+streamlit
+plotly
