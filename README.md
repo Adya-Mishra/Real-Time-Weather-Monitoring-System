@@ -78,7 +78,7 @@ This will fetch the weather data immediately and continue to run every 5 minutes
 ## Testing
 To run unit tests, execute:
 
-    python -m unittest discover -s tests
+     python -m unittest discover -s tests
   
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
