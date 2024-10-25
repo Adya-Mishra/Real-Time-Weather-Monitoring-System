@@ -38,12 +38,10 @@ The Real-Time Weather Monitoring System is designed to fetch, process, and visua
     pip install -r requirements.txt
 
 3. Configure the database:
-   
-   ```sql
-    Create a MySQL database named weather_data.
-    Create a table named daily_summary with the following structure:
-    sql
-    Copy code
+- Create a MySQL database named weather_data.
+- Create a table named daily_summary with the following structure:
+  
+    ```sql
     CREATE TABLE daily_summary (
         id INT AUTO_INCREMENT PRIMARY KEY,
         city VARCHAR(50),
