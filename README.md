@@ -29,8 +29,8 @@ The Real-Time Weather Monitoring System is designed to fetch, process, and visua
 1. Clone the repository:
    
      ```bash
-     git clone https://github.com/yourusername/weather-monitoring-system.git
-     cd weather-monitoring-system
+     git clone https://github.com/Adya-Mishra/Real-Time-Weather-Monitoring-System.git
+     cd Real-Time-Weather-Monitoring-System
 
 2. Install required packages:
 
